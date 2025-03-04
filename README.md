@@ -4,13 +4,12 @@
 Welcome to our Foundations of Data Science Group 17 GitHub repository! This repo is used for version control, collaboration, and tracking our progress on the project.
 
 ## 📁 Repository Structure
-data-science-group17/
 
-    .
+    data-science-group17/
     ├── notebook/         # Jupyter notebook
     ├── data/             # Datasets (if not too large), Datasets links
     ├── reports/          # Link to Google Doc report (live doc), PDF of final report
-    └── .gitignore        # Ignore unnecessary files
+    ├── .gitignore        # Ignore unnecessary files
     └── README.md         # About
 
 ## 👥 Collaborators
