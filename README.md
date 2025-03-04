@@ -5,6 +5,8 @@ Welcome to our Foundations of Data Science Group 17 GitHub repository! This repo
 
 ## 📁 Repository Structure
 data-science-group17/
+
+.
 ├── notebooks/           # Jupyter notebooks
 ├── data/                # Datasets (if not too large)
 ├── reports/             # Link to Google Doc report (live doc), PDF of final report
