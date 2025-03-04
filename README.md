@@ -12,10 +12,10 @@ Welcome to our Foundations of Data Science Group 17 GitHub repository! This repo
     ├── .gitignore        # Ignore unnecessary files
     └── README.md         # About
 
-## 👥 Collaborators
+## 👥 Contributors
 - Jack (Xianguo) Hao
 - Kunwar Dhruv Sethi
 - Eric Ramalheiro
 - Lucas Hele
-- Faiza Qayoom         @Faiza210
-- Miguel Morales       @miguelmog10
+- Faiza Qayoom            @Faiza210
+- Miguel Morales          @miguelmog10
