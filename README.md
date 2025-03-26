@@ -19,3 +19,7 @@ Welcome to our Foundations of Data Science Group 17 GitHub repository! This repo
 - Lucas Hele
 - Faiza Qayoom            @Faiza210
 - Miguel Morales          @miguelmog10
+
+## Link to Google Doc report 
+
+https://docs.google.com/document/d/1mFDQeadx9ZRrT4hQCHawLzvcWZoUpms1kKfHVhmzM54/edit?usp=sharing
